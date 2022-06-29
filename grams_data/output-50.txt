@@ -1,0 +1,42 @@
+[1] "START"
+[1] "2021-05-16 01:05:19 UTC"
+[1] "Loading data"
+[1] "data loaded"
+[1] "Selecting train and test data set"
+[1] "Done"
+[1] "Train control"
+[1] "Done"
+[1] "Training..."
+[1] "Done"
+[1] "Testing..."
+[1] "Done"
+[1] "Results..."
+Confusion Matrix and Statistics
+
+          Reference
+Prediction CLEAN MALWARE
+   CLEAN   17683    3966
+   MALWARE  2317   16034
+                                          
+               Accuracy : 0.8429          
+                 95% CI : (0.8393, 0.8465)
+    No Information Rate : 0.5             
+    P-Value [Acc > NIR] : < 2.2e-16       
+                                          
+                  Kappa : 0.6859          
+                                          
+ Mcnemar's Test P-Value : < 2.2e-16       
+                                          
+            Sensitivity : 0.8841          
+            Specificity : 0.8017          
+         Pos Pred Value : 0.8168          
+         Neg Pred Value : 0.8737          
+             Prevalence : 0.5000          
+         Detection Rate : 0.4421          
+   Detection Prevalence : 0.5412          
+      Balanced Accuracy : 0.8429          
+                                          
+       'Positive' Class : CLEAN           
+                                          
+[1] "2021-05-16 03:10:16 UTC"
+[1] "END"

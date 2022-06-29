@@ -1,0 +1,50 @@
+[1] "START"
+[1] "2021-06-01 10:18:59 UTC"
+[1] "Loading data"
+[1] "data loaded"
+[1] "Iteration: 1"
+Accuracy 
+    0.78 
+         Sensitivity          Specificity       Pos Pred Value 
+           0.7916667            0.7692308            0.7600000 
+      Neg Pred Value            Precision               Recall 
+           0.8000000            0.7600000            0.7916667 
+                  F1           Prevalence       Detection Rate 
+           0.7755102            0.4800000            0.3800000 
+Detection Prevalence    Balanced Accuracy 
+           0.5000000            0.7804487 
+          Reference
+Prediction CLEAN MALWARE
+   CLEAN      38      12
+   MALWARE    10      40
+[1] "Iteration: 2"
+Accuracy 
+    0.73 
+         Sensitivity          Specificity       Pos Pred Value 
+           0.7307692            0.7291667            0.7450980 
+      Neg Pred Value            Precision               Recall 
+           0.7142857            0.7450980            0.7307692 
+                  F1           Prevalence       Detection Rate 
+           0.7378641            0.5200000            0.3800000 
+Detection Prevalence    Balanced Accuracy 
+           0.5100000            0.7299679 
+          Reference
+Prediction CLEAN MALWARE
+   CLEAN      38      13
+   MALWARE    14      35
+[1] "Media K-Fold"
+Accuracy 
+   0.755 
+Sensitivity 
+  0.7612179 
+       F1 
+0.7566871 
+Precision 
+ 0.752549 
+[1] "Matrice di confusione"
+[1] "TP: 38.000"
+[1] "FN: 12.000"
+[1] "FP: 12.500"
+[1] "TN: 37.500"
+[1] "2021-06-01 10:19:01 UTC"
+[1] "END"

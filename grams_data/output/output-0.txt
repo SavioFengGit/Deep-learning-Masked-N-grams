@@ -1,0 +1,170 @@
+[1] "START"
+[1] "2021-06-01 10:21:36 UTC"
+[1] "Loading data"
+[1] "data loaded"
+[1] "Iteration: 1"
+Accuracy 
+    0.85 
+         Sensitivity          Specificity       Pos Pred Value 
+           0.7777778            0.9090909            0.8750000 
+      Neg Pred Value            Precision               Recall 
+           0.8333333            0.8750000            0.7777778 
+                  F1           Prevalence       Detection Rate 
+           0.8235294            0.4500000            0.3500000 
+Detection Prevalence    Balanced Accuracy 
+           0.4000000            0.8434343 
+          Reference
+Prediction CLEAN MALWARE
+   CLEAN       7       1
+   MALWARE     2      10
+[1] "Iteration: 2"
+Accuracy 
+     0.7 
+         Sensitivity          Specificity       Pos Pred Value 
+           0.8000000            0.6000000            0.6666667 
+      Neg Pred Value            Precision               Recall 
+           0.7500000            0.6666667            0.8000000 
+                  F1           Prevalence       Detection Rate 
+           0.7272727            0.5000000            0.4000000 
+Detection Prevalence    Balanced Accuracy 
+           0.6000000            0.7000000 
+          Reference
+Prediction CLEAN MALWARE
+   CLEAN       8       4
+   MALWARE     2       6
+[1] "Iteration: 3"
+Accuracy 
+    0.75 
+         Sensitivity          Specificity       Pos Pred Value 
+           0.8888889            0.6363636            0.6666667 
+      Neg Pred Value            Precision               Recall 
+           0.8750000            0.6666667            0.8888889 
+                  F1           Prevalence       Detection Rate 
+           0.7619048            0.4500000            0.4000000 
+Detection Prevalence    Balanced Accuracy 
+           0.6000000            0.7626263 
+          Reference
+Prediction CLEAN MALWARE
+   CLEAN       8       4
+   MALWARE     1       7
+[1] "Iteration: 4"
+Accuracy 
+     0.8 
+         Sensitivity          Specificity       Pos Pred Value 
+           0.7000000            0.9000000            0.8750000 
+      Neg Pred Value            Precision               Recall 
+           0.7500000            0.8750000            0.7000000 
+                  F1           Prevalence       Detection Rate 
+           0.7777778            0.5000000            0.3500000 
+Detection Prevalence    Balanced Accuracy 
+           0.4000000            0.8000000 
+          Reference
+Prediction CLEAN MALWARE
+   CLEAN       7       1
+   MALWARE     3       9
+[1] "Iteration: 5"
+Accuracy 
+    0.75 
+         Sensitivity          Specificity       Pos Pred Value 
+           0.7000000            0.8000000            0.7777778 
+      Neg Pred Value            Precision               Recall 
+           0.7272727            0.7777778            0.7000000 
+                  F1           Prevalence       Detection Rate 
+           0.7368421            0.5000000            0.3500000 
+Detection Prevalence    Balanced Accuracy 
+           0.4500000            0.7500000 
+          Reference
+Prediction CLEAN MALWARE
+   CLEAN       7       2
+   MALWARE     3       8
+[1] "Iteration: 6"
+Accuracy 
+     0.7 
+         Sensitivity          Specificity       Pos Pred Value 
+           0.8571429            0.6153846            0.5454545 
+      Neg Pred Value            Precision               Recall 
+           0.8888889            0.5454545            0.8571429 
+                  F1           Prevalence       Detection Rate 
+           0.6666667            0.3500000            0.3000000 
+Detection Prevalence    Balanced Accuracy 
+           0.5500000            0.7362637 
+          Reference
+Prediction CLEAN MALWARE
+   CLEAN       6       5
+   MALWARE     1       8
+[1] "Iteration: 7"
+Accuracy 
+     0.8 
+         Sensitivity          Specificity       Pos Pred Value 
+           0.8750000            0.7500000            0.7000000 
+      Neg Pred Value            Precision               Recall 
+           0.9000000            0.7000000            0.8750000 
+                  F1           Prevalence       Detection Rate 
+           0.7777778            0.4000000            0.3500000 
+Detection Prevalence    Balanced Accuracy 
+           0.5000000            0.8125000 
+          Reference
+Prediction CLEAN MALWARE
+   CLEAN       7       3
+   MALWARE     1       9
+[1] "Iteration: 8"
+Accuracy 
+    0.75 
+         Sensitivity          Specificity       Pos Pred Value 
+           0.8000000            0.7000000            0.7272727 
+      Neg Pred Value            Precision               Recall 
+           0.7777778            0.7272727            0.8000000 
+                  F1           Prevalence       Detection Rate 
+           0.7619048            0.5000000            0.4000000 
+Detection Prevalence    Balanced Accuracy 
+           0.5500000            0.7500000 
+          Reference
+Prediction CLEAN MALWARE
+   CLEAN       8       3
+   MALWARE     2       7
+[1] "Iteration: 9"
+Accuracy 
+    0.85 
+         Sensitivity          Specificity       Pos Pred Value 
+           0.9285714            0.6666667            0.8666667 
+      Neg Pred Value            Precision               Recall 
+           0.8000000            0.8666667            0.9285714 
+                  F1           Prevalence       Detection Rate 
+           0.8965517            0.7000000            0.6500000 
+Detection Prevalence    Balanced Accuracy 
+           0.7500000            0.7976190 
+          Reference
+Prediction CLEAN MALWARE
+   CLEAN      13       2
+   MALWARE     1       4
+[1] "Iteration: 10"
+Accuracy 
+     0.8 
+         Sensitivity          Specificity       Pos Pred Value 
+           0.7692308            0.8571429            0.9090909 
+      Neg Pred Value            Precision               Recall 
+           0.6666667            0.9090909            0.7692308 
+                  F1           Prevalence       Detection Rate 
+           0.8333333            0.6500000            0.5000000 
+Detection Prevalence    Balanced Accuracy 
+           0.5500000            0.8131868 
+          Reference
+Prediction CLEAN MALWARE
+   CLEAN      10       1
+   MALWARE     3       6
+[1] "Media K-Fold"
+Accuracy 
+   0.775 
+Sensitivity 
+  0.8096612 
+       F1 
+0.7763561 
+Precision 
+0.7609596 
+[1] "Matrice di confusione"
+[1] "TP: 8.100"
+[1] "FN: 1.900"
+[1] "FP: 2.600"
+[1] "TN: 7.400"
+[1] "2021-06-01 10:21:46 UTC"
+[1] "END"
